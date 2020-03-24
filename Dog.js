@@ -1,4 +1,3 @@
-function Dog(){
-	this.age=age;
-	this.age=age;
+function function_name(argument) {
+	// body...
 }
