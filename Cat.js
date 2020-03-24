@@ -1,6 +1,6 @@
 
 function Cat(){
-	this stomach = [];
+	this.stomach = [];
 	
 }
 Cat.prototype.eat=function(mouse){
